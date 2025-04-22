@@ -1,1 +1,1 @@
-Test Git Version Control
+echo "Hello Git!"
